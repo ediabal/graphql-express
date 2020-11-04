@@ -1,0 +1,22 @@
+[
+  {
+    "id": "muse",
+    "name": "Muse",
+    "uri": "muse.com"
+  },
+  {
+    "id": "helix",
+    "name": "Helix",
+    "uri": "helix.com"
+  },
+  {
+    "id": "managed-defence",
+    "name": "Managed Defence",
+    "uri": "managed-defence.com"
+  },
+  {
+    "id": "endpoint",
+    "name": "EPS",
+    "uri": "eps.com"
+  }
+]
