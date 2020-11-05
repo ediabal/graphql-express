@@ -1,22 +1,62 @@
 [
   {
-    "id": "muse",
-    "name": "Muse",
-    "uri": "muse.com"
+    "id": "cloud-security",
+    "name": "Cloud Security",
+    "uri": "cloud-security.example.com"
+  },
+  {
+    "id": "detection-on-demand",
+    "name": "Detection on Demand",
+    "uri": "detection-on-demand.example.com"
+  },
+  {
+    "id": "email-security",
+    "name": "Email Security",
+    "uri": "email-security.example.com"
+  },
+  {
+    "id": "endpoint-security",
+    "name": "Endpoint Security",
+    "uri": "endpoint-security.example.com"
+  },
+  {
+    "id": "expertise-on-demand",
+    "name": "Expertise on Demand",
+    "uri": "expertise-on-demand.example.com"
   },
   {
     "id": "helix",
     "name": "Helix",
-    "uri": "helix.com"
+    "uri": "helix.example.com"
   },
   {
-    "id": "managed-defence",
-    "name": "Managed Defence",
-    "uri": "managed-defence.com"
+    "id": "managed-defense",
+    "name": "Managed Defense",
+    "uri": "managed-defense.example.com"
   },
   {
-    "id": "endpoint",
-    "name": "EPS",
-    "uri": "eps.com"
+    "id": "mandiant",
+    "name": "Mandiant",
+    "uri": "mandiant.example.com"
+  },
+  {
+    "id": "myfireeye",
+    "name": "MyFireEye",
+    "uri": "mandiant.example.com"
+  },
+  {
+    "id": "network-security",
+    "name": "Network Security",
+    "uri": "network-security.example.com"
+  },
+  {
+    "id": "security-validation",
+    "name": "Security Validation",
+    "uri": "security-validation.example.com"
+  },
+  {
+    "id": "threat-intelligence",
+    "name": "Threat Intelligence",
+    "uri": "threat-intelligence.example.com"
   }
 ]
